@@ -1,0 +1,53 @@
+60, 70, 80, 80, 85, 90, 100
+
+7 students
+
+Overall Average?
+Middle Student?
+Score appeared many times?
+
+
+mean = (x1 + x2 + .....xn)/n
+
+median = Middle value (if odd count), if even value then Average of 2 middle value
+
+mode = most repeated value
+
+-----------------------------------------------------------------------------
+
+Q1: score= 10,20,30
+
+Find mean?
+
+add = 10+20+30 = 60
+count = 3
+
+mean = 60/3 = 20
+
+median = 20
+
+mode = all value unique , no mode
+
+
+Q2: score= 50,70,70,90,45,76,99,88
+
+mean = 50 + 70 + 70 + 90 + 45 + 76 + 99 + 88 = 588
+count = 8
+
+mean = 73.5
+
+First, arrange the scores in ascending order:
+
+45, 50, 70, 70, 76, 88, 90, 99
+
+There are 8 values (even number), so the median (Q2) is the average of the 4th and 5th values:
+
+4th value = 70
+5th value = 76
+
+Median (Q2) = (70 + 76) ÷ 2 = 73
+
+median = 73
+
+mode = 70
+
